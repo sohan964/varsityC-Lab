@@ -2,7 +2,7 @@ using System;
 
 namespace LabReport
 {
-    class Program
+    class Program1
     {
         public int x = 5; 
         private int y = 10; 
@@ -13,7 +13,7 @@ namespace LabReport
 
         public void Display()
         {
-            Console.WriteLine(x);
+           Console.WriteLine(x);
         }
 
 
